@@ -8,7 +8,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonscan"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="QR Code Scan"
